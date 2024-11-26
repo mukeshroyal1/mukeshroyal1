@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mukesh Royal</h1>
-<h3 align="center">A Passionate Full Stack Developer & Machine Learning Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mukeshroyal1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshroyal1&theme=radical" alt="Mukesh's GitHub Streak" />
 </p>
 
 ---
@@ -25,12 +27,17 @@
 
 ### 🚀 Skills & Expertise  
 
-#### Languages & Frameworks  
+#### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,angular,nodejs,django,nestjs,swift" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Programming Languages" />
 </p>
 
-#### Tools & Technologies  
+#### 🔧 Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,nestjs" alt="Frameworks & Libraries" />
+</p>
+
+#### 🛠️ Tools & Technologies  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,blender,pandas,tailwind" alt="Tools & Technologies" />
 </p>
@@ -38,8 +45,13 @@
 ---
 
 ### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshroyal1&show_icons=true&locale=en&layout=compact" alt="Mukesh's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukeshroyal1&show_icons=true&theme=radical" alt="Mukesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshroyal1&layout=compact&theme=radical" alt="Mukesh's Top Languages" />
 </p>
 
 ---
@@ -49,5 +61,7 @@
   <a href="https://linkedin.com/in/mukeshroyal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:Mukeshroyal455@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
