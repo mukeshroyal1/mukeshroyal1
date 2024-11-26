@@ -39,8 +39,10 @@
 
 #### 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,blender,pandas,tailwind" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=firebase,blender,tailwind" alt="Tools & Technologies" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
 </p>
+
 
 ---
 
