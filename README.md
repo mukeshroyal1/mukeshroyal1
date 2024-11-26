@@ -12,7 +12,7 @@
 ### 🌟 About Me  
 
 - 🔭 **Currently Working On:**  
-  **Psoriasis Tracker (Medical App)** – A project aimed at assisting individuals in managing and monitoring psoriasis with advanced tracking features.  
+  **Psoriasis Tracker (Medical App)** – A iOS app aimed at assisting individuals in managing and monitoring psoriasis with advanced tracking features.  
 
 - 👯 **Looking to Collaborate On:**  
   Machine Learning and AI projects that solve impactful problems.
