@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshroyal1&theme=radical" alt="Mukesh's GitHub Streak" />
-</p>
-
----
-
 ### 🌟 About Me  
 
 - 🔭 **Currently Working On:**  
