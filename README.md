@@ -41,18 +41,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukeshroyal1&show_icons=true&theme=radical" alt="Mukesh's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshroyal1&layout=compact&theme=radical" alt="Mukesh's Top Languages" />
-</p>
-
----
-
 ### 🤝 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/mukeshroyal" target="_blank">
