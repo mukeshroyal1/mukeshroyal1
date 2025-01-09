@@ -7,7 +7,7 @@
 
 - 🔭 **Currently Working On:**  
   Psoriasis Tracker – A iOS app aimed at assisting individuals in managing and monitoring psoriasis with advanced tracking features.
-  TheInvestGame - A web app aimed at providing youth finacial iteracy using a game simulation. It has role playing character, where the user must make decisions and apply important topics such as investing, budgeting, real-estate, mortgage, and much more!
+  TheInvestGame - A web app aimed at providing youth finacial iteracy using a game simulation. It has role playing character, where the user must make decisions and apply important topics such as investing, budgeting, real-estate, mortgage, and much more to survive in the real world! 
 
 - 👯 **Looking to Collaborate On:**  
   Machine Learning and AI projects that solve impactful problems.
