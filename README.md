@@ -13,7 +13,7 @@
   Machine Learning and AI projects that solve impactful problems.
 
 - 📫 **How to Reach Me:**  
-  [Mukeshroyal455@gmail.com](mailto:Mukeshroyal455@gmail.com)
+  [Mukeshroyal455@gmail.com](mailto:Mukeshroyal.dev@gmail.com)
 
 - ⚡ **Fun Fact:**  
   When I'm not coding, you might find me creating YouTube videos to share knowledge and creativity.
