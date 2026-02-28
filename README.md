@@ -9,7 +9,7 @@
   An AI agent that can accelerate the productivity of students by 10x. 
 
 - 👯 **Looking to Collaborate On:**  
-  Machine Learning and AI projects that solve impactful problems.
+  Machine Learning and AI projects that solve impactful problems. Currently really interested in Agentic Systems. 
 
 - 📫 **How to Reach Me:**  
   [Mukeshroyal455@gmail.com](mailto:Mukeshroyal.dev@gmail.com)
