@@ -22,7 +22,7 @@
 
 #### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,C,powershell,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,powershell,bash" alt="Programming Languages" />
 </p>
 
 #### 🔧 Frameworks & Libraries  
