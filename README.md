@@ -22,17 +22,17 @@
 
 #### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,powershell,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,sql,bash" alt="Programming Languages" />
 </p>
 
 #### 🔧 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,nestjs" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,nestjs,fastapi,flask,spring,tensorflow,sklearn" alt="Frameworks & Libraries" />
 </p>
 
 #### 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,blender,tailwind" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,firebase,tailwind" alt="Tools & Technologies" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
 </p>
 
