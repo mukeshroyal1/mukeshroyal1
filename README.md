@@ -6,9 +6,9 @@
 ### 🌟 About Me  
 
 - 🔭 **Currently Learning:**  
-  Agentic AI
-  Machine Learning 
-  Leetcode
+  - Agentic AI
+  - Machine Learning 
+  - Leetcode
 
 - 📫 **How to Reach Me:**  
   [Mukeshroyal.dev@gmail.com](mailto:Mukeshroyal.dev@gmail.com)
