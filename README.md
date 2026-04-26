@@ -5,17 +5,16 @@
 
 ### 🌟 About Me  
 
-- 🔭 **Currently Working On:**  
-  An AI agent that can accelerate the productivity of students by 10x. 
-
-- 👯 **Looking to Collaborate On:**  
-  Machine Learning and AI projects that solve impactful problems. Currently really interested in Agentic Systems. 
+- 🔭 **Currently Learning:**  
+  Agentic AI
+  Machine Learning 
+  Leetcode
 
 - 📫 **How to Reach Me:**  
-  [Mukeshroyal455@gmail.com](mailto:Mukeshroyal.dev@gmail.com)
+  [Mukeshroyal.dev@gmail.com](mailto:Mukeshroyal.dev@gmail.com)
 
 - ⚡ **Fun Fact:**  
-  When I'm not coding, you might find me creating YouTube videos to share knowledge and creativity.
+  When I'm not coding, you might find me playing video games. 
 
 ---
 
