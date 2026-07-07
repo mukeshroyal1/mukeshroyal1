@@ -6,8 +6,8 @@
 ### 🌟 About Me  
 
 - 🔭 **Currently Learning:**  
-  - Agentic AI
-  - Machine Learning 
+  - Agentic AI and ML
+  - Full Stack Development
   - Leetcode
 
 - 📫 **How to Reach Me:**  
