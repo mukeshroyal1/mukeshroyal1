@@ -17,6 +17,7 @@
   When I'm not coding, you might find me playing video games. 
 
 ---
+
 ### 🚀 Skills & Expertise  
 #### 💻 Programming Languages  
 <p align="center">
@@ -32,6 +33,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,postgres,aws" alt="Tools & Technologies" />
 </p>
+
 ---
 
 ### 🤝 Connect With Me  
