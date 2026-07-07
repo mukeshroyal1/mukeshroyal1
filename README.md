@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,pytorch,tensorflow" alt="Frameworks & Libraries" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="28" />
 </p>
 #### 🛠️ Tools & Technologies  
 <p align="center">
