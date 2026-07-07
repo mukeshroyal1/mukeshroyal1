@@ -17,26 +17,21 @@
   When I'm not coding, you might find me playing video games. 
 
 ---
-
 ### 🚀 Skills & Expertise  
-
 #### 💻 Programming Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,sql,bash" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,ruby,c,java,mysql" alt="Programming Languages" />
 </p>
-
 #### 🔧 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,nestjs,fastapi,flask,spring,tensorflow,sklearn" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,pytorch,tensorflow" alt="Frameworks & Libraries" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40" />
 </p>
-
 #### 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,firebase,tailwind" alt="Tools & Technologies" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postgres,aws" alt="Tools & Technologies" />
 </p>
-
-
 ---
 
 ### 🤝 Connect With Me  
