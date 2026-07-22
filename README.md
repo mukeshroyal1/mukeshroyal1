@@ -2,8 +2,8 @@
 
 Hi there, I'm Mukesh 👋
 </div>
-🎮 I am a Software Engineer
-🧐 Interested in everything AI/ML
-🌱 Currently learning Agentic AI and React
-❤️ Open Source Software
+- 🎮 I am a Software Engineer
+- 🧐 Interested in everything AI/ML
+- 🌱 Currently learning Agentic AI and React
+- ❤️ Open Source Software
 <br/> <div align="center">
